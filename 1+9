@@ -1,0 +1,10 @@
+public class game{
+  public static void main(string[] args){
+    //int i = 0;
+    int sum;
+    for (int i=0;i++;i<10){
+      sum += i;
+    }
+    system.out.print("1+2+3+4+5+6+7+8+9=" sum);
+  }
+}
